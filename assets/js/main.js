@@ -28,6 +28,11 @@ const textArr3 = text.split("");
 
 console.log(textArr3);
 
+// ==========================================
+//                  Array
+//            forEach & map methods
+// ==========================================
+
 console.log("%c level 1_1 ––> forEach, map", "color: blue; background-color: gold");
 
 let getraenke = [
@@ -185,6 +190,11 @@ const newAlbum = album.map((element) =>
 });
 
 console.log(newAlbum);
+
+// ==========================================
+//                  Array
+//            sort & reverse methods
+// ==========================================
 
 console.log("%c level 1_1 ––> sort, reverse", "color: blue; background-color: gold");
 
